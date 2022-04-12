@@ -33,6 +33,7 @@ public class Shape {
     public Shape(String name) {
         setName(name);
     }
+
     /*public double area(){
         return 0;
     }*/
@@ -46,6 +47,7 @@ public class Shape {
     public double perimeter (){
     return 0;
     }
+
 /*
     @Override
     public String toString() {
