@@ -2,7 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CydeoBest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DoNotTrack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/G20_Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Group20Part2EU8Collaboration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NewProject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git_practice2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git_practice3" vcs="Git" />
