@@ -1,0 +1,37 @@
+package com.sites.step_defs;
+
+import com.sites.utilities.ConfigReader;
+import com.sites.utilities.Driver;
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+
+import java.util.concurrent.TimeUnit;
+
+public class Hooks {
+    @Before
+    public void setUp(){
+
+        String browser = ConfigReader.get("browser");
+        if(browser.equalsIgnoreCase("chrome-headless")){
+            Driver.get().manage().window().setSize(new Dimension(1920,1080));
+        }else if(!browser.contains("mobile")) {
+            Driver.get().manage().window().maximize();
+        }
+
+        Driver.get().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+
+    }
+    @After
+    public void tearDown(Scenario scenario){
+        if(scenario.isFailed()){
+            final byte[] screenshot = ((TakesScreenshot) Driver.get()).getScreenshotAs(OutputType.BYTES);
+            scenario.attach(screenshot,"image/png","screenshot");
+        }
+        Driver.closeDriver();
+    }
+}
+

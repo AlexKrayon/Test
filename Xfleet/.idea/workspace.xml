@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff42d902-5e25-4767-b697-5937131bbdc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_APITask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_APITask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_APITask/src/test/java/Pet/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_APITask/src/test/java/Pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_APITask/src/test/java/Pet/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_APITask/src/test/java/insiderAPI/PETScenarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/pages/CareerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/pages/PositionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/step_definitions/UIStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/java/insider/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BALCI_Insider_SeleniumTask/src/test/resources/features/task1UI.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/java/Insider_Task/Pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/java/Insider_Task/Pages/Insider_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/java/Insider_Task/Test/testPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/java/Insider_Task/Utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/java/Insider_Task/Utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Balci_Insider_Task/src/test/java/Insider_Task/Utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_1/SimpleGetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_2/HrGetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_2/SpartanGetRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_2/SpartanNegativeGetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_3/HR_API_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_3/SpartanTestsWithParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_4/CBTrainingWithApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_4/ORDSApiTestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_4/ORDSApiWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_4/SpartanWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_5/HamcrestMatcherApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_5/HamcrestMatchersIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_5/JSONtoJAVATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_5/ORDSHamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_5/SpartanAPIvsDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_5/SpartanHamcrestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_6/ORDSPojoGetRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_6/SpartanPojoRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_7/PutAndPatchRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Day_7/SpartanPostRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Pojo/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Pojo/Region.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Pojo/Regions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Pojo/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Pojo/Spartan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Pojo/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Review/ZipBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Review/ZipPathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Utilities/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Utilities/HR_Test_Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/src/test/java/com/cydeo/Utilities/SpartanTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU-8_RestAssured_FBalci/target/test-classes/com/cydeo/Day_1/SimpleGetRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8-RestAssured_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/src/test/java/jdbcTest/TestConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EU8_JDBC_Practice/target/test-classes/jdbcTest/TestConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FleetGru_G20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/EInvoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/EReconciliation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/FBute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/Fitlich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/Melasoft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/SAPKVKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/SAPSAFT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/SAPeInvoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/pages/TuscheHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/runners/FailedTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/EInvoiceStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/EReconciliationStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/FButeStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/FitlichStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/MelasoftStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/SAPEInvoiceStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/SAPKVKKStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/SAPSAFTStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/step_defs/TuscheHomeStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/utilities/BrowserUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/java/com/sites/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/EInvoice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/EReconciliation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/FBute.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/Fitlich.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/Melasoft.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/SAPEInvoice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/SAPKVKK.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/SAPSAFT.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/src/test/resources/features/TuscheHome.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/embeddings/embedding_1032183595.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/embeddings/embedding_1326320299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/embeddings/embedding_1528722831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/embeddings/embedding_374169196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/embeddings/embedding_842519514.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_1_401591515.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_2_3844221629.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_3566283875.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_3_230243686.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_4_2309372178.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_5_4169785149.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_6_189166624.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_7_2198447793.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-feature_8_1402471080.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_1759228775.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_1820581654.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_191871559.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_2061913004.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_2149486944.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_2835454418.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_308685452.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_308903453.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_3864504489.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber-html-reports/report-tag_4046446345.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/cucumber.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/default-html-reports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/rerun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/EInvoice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/EReconciliation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/FBute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/Fitlich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/Melasoft.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/SAPKVKK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/SAPSAFT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/SAPeInvoice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/pages/TuscheHome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/runners/CukesRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/runners/FailedTestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/EInvoiceStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/EReconciliationStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/FButeStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/FitlichStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/MelasoftStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/SAPEInvoiceStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/SAPKVKKStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/SAPSAFTStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/step_defs/TuscheHomeStepDefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/utilities/BrowserUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/utilities/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/com/sites/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/EInvoice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/EReconciliation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/FBute.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/Fitlich.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/Melasoft.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/SAPEInvoice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/SAPKVKK.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/SAPSAFT.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MelasoftSites-master/target/test-classes/features/TuscheHome.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/java/cbt/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/java/cbt/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/java/cbt/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/cydeo-cucumber-junit-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/test-classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LoginAc_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LogoutAc_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LogoutAc_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/stepdefinitions/LogoutAc_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xfleet/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/logInFunction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/logoutFunctions.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Xfleet-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/embeddings/embedding_1568386368.unknown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-feature_1_2859630212.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-feature_381030100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-tag_2208623539.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/reports/cucumber-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/reports/cucumber-report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/reports/cucumber-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-User log in the website.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/User log in the website.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/runners/CukesRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/stepdefinitions/LoginAc_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/utilities/BrowserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/utilities/ConfigurationReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xfleet/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/logInFunction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/features/logoutFunctions.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/Hr2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/New.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/NewTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/demo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/src/test/java/Utilities/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/src/test/java/dataBaseTestPractice/Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/src/test/java/dataBaseTestPractice/testConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/target/test-classes/dataBaseTestPractice/testConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cydeo-cucumber-junit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cydeo-cucumber-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cydeo-cucumber-junit/src/test/java/com/cydeo/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit/src/test/java/com/cydeo/runners/CukesRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BO1CXPuFw5gentScLHM8y2WcKl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BALCI_Insider_APITask" />
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: The user must be logged out if the user close the open tab (all tabs if there are multiple open tabs)">
+    <configuration name="Scenario: All users can see their own usernames in the profile menu, after successful login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/logInFunction.feature" />
+      <option name="GLUE" value="com.xfleet.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Xfleet" />
+      <option name="NAME_FILTER" value="^All users can see their own usernames in the profile menu\, after successful login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^All users can see their own usernames in the profile menu\, after successful login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: All users can see their own usernames in the profile menu, after successful login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The user can log out and ends up on the login page." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/logoutFunctions.feature" />
+      <option name="GLUE" value="com.xfleet.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Xfleet" />
+      <option name="NAME_FILTER" value="^The user can log out and ends up on the login page\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The user can log out and ends up on the login page\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The user can log out and ends up on the login page." />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The user can not go to the home page again by clicking the step back button after successfully logging out." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/logoutFunctions.feature" />
+      <option name="GLUE" value="com.xfleet.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Xfleet" />
+      <option name="NAME_FILTER" value="^The user can not go to the home page again by clicking the step back button after successfully logging out\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The user can not go to the home page again by clicking the step back button after successfully logging out\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The user can not go to the home page again by clicking the step back button after successfully logging out." />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The user must be logged out if the user close the open tab (all tabs if there are multiple open tabs)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/logoutFunctions.feature" />
+      <option name="GLUE" value="com.xfleet.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Xfleet" />
+      <option name="NAME_FILTER" value="^The user must be logged out if the user close the open tab \(all tabs if there are multiple open tabs\)$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^The user must be logged out if the user close the open tab \(all tabs if there are multiple open tabs\)$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The user must be logged out if the user close the open tab (all tabs if there are multiple open tabs)" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User should be able to see &quot;Remember Me&quot; link and click it on." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/logInFunction.feature" />
+      <option name="GLUE" value="com.xfleet.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Xfleet" />
+      <option name="NAME_FILTER" value="^User should be able to see \&quot;Remember Me\&quot; link and click it on\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^User should be able to see \&quot;Remember Me\&quot; link and click it on\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User should be able to see &quot;Remember Me&quot; link and click it on." />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: The user must be logged out if the user close the open tab (all tabs if there are multiple open tabs)" />
+        <item itemvalue="Cucumber Java.Scenario: The user can log out and ends up on the login page." />
+        <item itemvalue="Cucumber Java.Scenario: The user can not go to the home page again by clicking the step back button after successfully logging out." />
+        <item itemvalue="Cucumber Java.Scenario: All users can see their own usernames in the profile menu, after successful login" />
+        <item itemvalue="Cucumber Java.Scenario: User should be able to see &quot;Remember Me&quot; link and click it on." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff42d902-5e25-4767-b697-5937131bbdc4" name="Changes" comment="" />
+      <created>1656762197945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656762197945</updated>
+      <workItem from="1656762199578" duration="12566000" />
+      <workItem from="1657117636868" duration="816000" />
+      <workItem from="1657118481034" duration="35530000" />
+      <workItem from="1658351884352" duration="4490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

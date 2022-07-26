@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccca12b0-f8dc-481f-9dc4-8ccee495684e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jdbcTest/TestConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jdbcTest/TestConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/java/cbt/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/java/cbt/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/java/cbt/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/src/test/resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/cydeo-cucumber-junit-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumGrid/target/test-classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/stepdefinitions/LoginAc_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/java/com/xfleet/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/resources/features/logInFunction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/src/test/resources/features/logoutFunctions.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/css/cucumber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/report-feature_1_2859630212.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/report-feature_381030100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/cucumber/cucumber-html-reports/report-tag_2208623539.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/reports/cucumber-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/reports/cucumber-report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/reports/cucumber-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/runners/CukesRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/stepdefinitions/LoginAc_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/utilities/BrowserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/utilities/ConfigurationReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/com/xfleet/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/features/logInFunction.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Xfleet/target/test-classes/features/logoutFunctions.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/Hr2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/New.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/NewTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-project/Queries/demo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProject" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cydeo-cucumber-junit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cydeo-cucumber-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cydeo-cucumber-junit/src/test/java/com/cydeo/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cydeo-cucumber-junit/src/test/java/com/cydeo/runners/CukesRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BRqVh0JxqWoVjEnD9s8ARfzFlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbcTest.TestConnection" />
+      <module name="EU8_JDBC_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbcTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccca12b0-f8dc-481f-9dc4-8ccee495684e" name="Changes" comment="" />
+      <created>1656879273284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656879273284</updated>
+      <workItem from="1656879274594" duration="5233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
